@@ -1,0 +1,70 @@
+#wrapper {
+        /*margin: auto auto;*/
+        position: relative;
+        height: 100%;
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+background-color: #222431;
+        /*object-fit: cover;*/
+        /*background-size: cover;*/
+
+        font-size-adjust: 0.6;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+}
+#app {
+        /*margin: auto auto;*/
+        width: 100%;
+        max-width: 100%;
+        font-size: 12px;
+
+        position: relative;
+        font-family: 'Helvetica', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+        background-color: #222431;
+        font-size-adjust: 0.6;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        overflow: hidden;
+}
+.canvas {
+        /*margin: auto auto;*/
+        font-size: 14px;
+
+        position: relative;
+        background: #222431;
+        border: 2px solid white;
+
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        -ms-touch-action: none;
+            touch-action: none;
+}
+#parent {
+		width: 500px; height: 500px;
+		border: 2px solid white;
+		position: relative; margin: 0 auto;   //父级元素设置为：
+		background-color: #F4F4F4;
+}
+#output {
+		width: 250px; height: 250px;
+		border: 2px solid white;
+		position: relative; margin: 0 auto;   //父级元素设置为：
+		background-color: #F4F4F4;
+}
+#sg {
+		width: 250px; height: 250px;
+		border: 2px solid white;
+		position: relative; margin: 0 auto;   //父级元素设置为：
+		background-color: #F4F4F4;
+}
