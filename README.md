@@ -1,4 +1,4 @@
-# pastegan_online
+# pasteGAN_online
 
 > A Vue.js project
 
