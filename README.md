@@ -1,4 +1,4 @@
-# pastegan-website-v2
+# pasteGAN_online
 
 > A Vue.js project
 
